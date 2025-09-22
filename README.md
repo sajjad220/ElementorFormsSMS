@@ -1,6 +1,6 @@
 # اتصال هوشمند المنتور به پیامک IPPanel
 
-![GitHub Plugin Version](https://img.shields.io/badge/Version-2.0.1-blue.svg)
+![GitHub Plugin Version](https://img.shields.io/badge/Version-2.0.4-blue.svg)
 ![License](https://img.shields.io/badge/License-GPL--2.0--or--later-brightgreen.svg)
 ![Author](https://img.shields.io/badge/Author-Sajjad%20Ehsanfar-orange.svg)
 
