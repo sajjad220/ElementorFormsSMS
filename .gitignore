@@ -1,0 +1,32 @@
+# Dependencies managed by Composer
+/vendor/
+
+# WordPress specific files and folders
+wp-config.php
+debug.log
+error_log
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+
+# Build artifacts and archives
+*.zip
+*.tar.gz
+/dist/
+/build/
+
+# IDE and editor configuration files
+/.vscode/
+/.idea/
+*.sublime-project
+*.sublime-workspace
+nbproject/
+
+# Operating System generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
